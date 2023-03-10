@@ -40,7 +40,7 @@ import javax.xml.transform.Result;
  * Converts JSON stream to XML stream. Uses XML representation of JSON defined in XSLT 3.0.
  * 
  * @see <a href="https://www.w3.org/TR/xslt-30/#json">22 Processing JSON Data</a>
- * @author Martynas Jusevičius <martynas@atomgraph.com>
+ * @author Martynas Jusevičius &lt;martynas@atomgraph.com&gt;
  */
 public class JsonStreamXMLWriter
 {
